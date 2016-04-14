@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichihuttenie09huttgoog_0016.png"; bbox 0 0 1050 1529; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 381 284 613 308">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 381 284 613 308">
+     <span class='ocr_line' id='line_1_1' title="bbox 381 284 613 308; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 381 284 411 307; x_wconf 83' lang='grc' dir='ltr'>ΡΙ</span> <span class='ocrx_word' id='word_1_2' title='bbox 417 284 446 307; x_wconf 76' lang='lat' dir='ltr'>[A</span> <span class='ocrx_word' id='word_1_3' title='bbox 451 284 514 307; x_wconf 71' lang='lat' dir='ltr'>LAR</span> <span class='ocrx_word' id='word_1_4' title='bbox 518 284 613 308; x_wconf 61' lang='lat' dir='ltr'>ISMVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 323 360 670 381">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 323 360 670 381">
+     <span class='ocr_line' id='line_1_2' title="bbox 323 360 670 381; baseline 0.003 -2"><span class='ocrx_word' id='word_1_5' title='bbox 323 360 329 379; x_wconf 92' lang='lat'>1</span> <span class='ocrx_word' id='word_1_6' title='bbox 334 360 350 379; x_wconf 81' lang='lat'>&gt;1</span> <span class='ocrx_word' id='word_1_7' title='bbox 354 360 371 379; x_wconf 70' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_8' title='bbox 375 360 396 380; x_wconf 83' lang='lat' dir='ltr'>L(</span> <span class='ocrx_word' id='word_1_9' title='bbox 402 360 419 379; x_wconf 72' lang='lat'>)(</span> <span class='ocrx_word' id='word_1_10' title='bbox 421 360 464 380; x_wconf 54' lang='lat' dir='ltr'>Ns</span> <span class='ocrx_word' id='word_1_11' title='bbox 486 360 670 381; x_wconf 55' lang='lat' dir='ltr'>11VP1‘ENH3VS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 138 526 855 1250">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 138 526 855 1250">
+     <span class='ocr_line' id='line_1_3' title="bbox 138 526 855 1250; baseline 0 279"><span class='ocrx_word' id='word_1_12' title='bbox 138 526 855 1250; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
